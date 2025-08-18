@@ -1,0 +1,24 @@
+{
+  "name": "fighting-cancer-now",
+  "version": "1.0.0",
+  "description": "Global initiative for cancer data centralization and fundraising",
+  "scripts": {
+    "dev": "docker-compose up",
+    "build": "docker-compose build",
+    "test": "npm run test:frontend && npm run test:backend",
+    "test:frontend": "cd src/frontend && npm test",
+    "test:backend": "cd src/backend && python -m pytest",
+    "lint": "npm run lint:frontend && npm run lint:backend",
+    "lint:frontend": "cd src/frontend && npm run lint",
+    "lint:backend": "cd src/backend && flake8",
+    "setup": "./tools/scripts/setup.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/fighting-cancer-now.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "concurrently": "^7.6.0"
+  }
+}

@@ -1,0 +1,50 @@
+version: '3.8'
+
+services:
+  frontend:
+    build:
+      context: ./src/frontend
+      dockerfile: ../../infrastructure/docker/frontend.Dockerfile
+    ports:
+      - "3000:3000"
+    environment:
+      - REACT_APP_API_URL=http://localhost:8000/api/v1
+    volumes:
+      - ./src/frontend:/app
+      - /app/node_modules
+    depends_on:
+      - backend
+
+  backend:
+    build:
+      context: ./src/backend
+      dockerfile: ../../infrastructure/docker/backend.Dockerfile
+    ports:
+      - "8000:8000"
+    environment:
+      - DATABASE_URL=mongodb://database:27017/fighting-cancer-now
+    volumes:
+      - ./src/backend:/app
+    depends_on:
+      - database
+
+  database:
+    image: ferretdb/ferretdb:latest
+    ports:
+      - "27017:27017"
+    environment:
+      - FERRETDB_POSTGRESQL_URL=postgres://user:password@postgres:5432/ferretdb
+    depends_on:
+      - postgres
+
+  postgres:
+    image: postgres:15
+    environment:
+      - POSTGRES_USER=user
+      - POSTGRES_PASSWORD=password
+      - POSTGRES_DB=ferretdb
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+volumes:
+  postgres_data:
