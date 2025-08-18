@@ -1,9 +1,5 @@
 # Fighting Cancer Now
-<img src="assets/logo.png" alt="FCN's Logo" width="1000"/>
-
 An open-source global initiative aimed at centralizing cancer-related data and providing a platform for collective fundraising in the oncology field.
-
-# Fighting Cancer Now
 
 <div align="center">
   <img src="assets/logo/logo.png" alt="Fighting Cancer Now Logo" width="1000"/>
@@ -183,7 +179,7 @@ src/backend/
 ```
 </details>
 
-## 🛠️ Development
+##  Development
 
 ### Available Scripts
 
@@ -257,7 +253,7 @@ Fighting Cancer Now supports multiple languages to serve our global community:
 3. Update language selector component
 4. Test the new language integration
 
-## 🔒 Security
+##  Security
 
 Security is paramount in handling sensitive health data and financial transactions:
 
@@ -400,61 +396,61 @@ We follow industry-standard coding practices:
 
 Comprehensive documentation is available:
 
-- 📋 **[API Documentation](docs/API.md)** - Complete API reference
-- 🏗️ **[Architecture Guide](docs/ARCHITECTURE.md)** - System architecture
-- 🚀 **[Deployment Guide](docs/DEPLOYMENT.md)** - Production deployment
-- 🛠️ **[Development Guide](docs/CONTRIBUTING.md)** - Developer setup
-- 🔒 **[Security Policies](docs/SECURITY.md)** - Security guidelines
-- 🗄️ **[Database Schema](docs/DATABASE.md)** - Data models and migrations
+-  **[API Documentation](docs/API.md)** - Complete API reference
+-  **[Architecture Guide](docs/ARCHITECTURE.md)** - System architecture
+-  **[Deployment Guide](docs/DEPLOYMENT.md)** - Production deployment
+-  **[Development Guide](docs/CONTRIBUTING.md)** - Developer setup
+-  **[Security Policies](docs/SECURITY.md)** - Security guidelines
+-  **[Database Schema](docs/DATABASE.md)** - Data models and migrations
 
 ## Roadmap
 **[Roadmap Documentation](ROADMAP.md )**
 
-## 📊 Project Stats
+##  Project Stats
 
 <div align="center">
   
 | Metric | Value |
 |--------|-------|
-| 🌟 GitHub Stars | ![GitHub Stars](https://img.shields.io/github/stars/your-username/fighting-cancer-now) |
-| 🍴 Forks | ![GitHub Forks](https://img.shields.io/github/forks/your-username/fighting-cancer-now) |
-| 📝 Commits | ![GitHub Commits](https://img.shields.io/github/commit-activity/m/your-username/fighting-cancer-now) |
-| 👥 Contributors | ![GitHub Contributors](https://img.shields.io/github/contributors/your-username/fighting-cancer-now) |
-| 🐛 Issues | ![GitHub Issues](https://img.shields.io/github/issues/your-username/fighting-cancer-now) |
-| 📦 Release | ![GitHub Release](https://img.shields.io/github/v/release/your-username/fighting-cancer-now) |
+|  GitHub Stars | ![GitHub Stars](https://img.shields.io/github/stars/your-username/fighting-cancer-now) |
+|  Forks | ![GitHub Forks](https://img.shields.io/github/forks/your-username/fighting-cancer-now) |
+|  Commits | ![GitHub Commits](https://img.shields.io/github/commit-activity/m/your-username/fighting-cancer-now) |
+|  Contributors | ![GitHub Contributors](https://img.shields.io/github/contributors/your-username/fighting-cancer-now) |
+|  Issues | ![GitHub Issues](https://img.shields.io/github/issues/your-username/fighting-cancer-now) |
+|  Release | ![GitHub Release](https://img.shields.io/github/v/release/your-username/fighting-cancer-now) |
 
 </div>
 
-## 🏆 Recognition & Awards
+##  Recognition & Awards
 
-- 🥇 **Open Source Healthcare Innovation Award 2024** (Pending)
+- 🥇 **Open Source Healthcare Innovation Award 2026** (Pending)
 - 🌟 **GitHub Archive Program** - Preserved for future generations
 - 📈 **Featured Project** on GitHub's social impact page
 
-## 🤝 Partnerships
+##  Partnerships
 
 We collaborate with leading organizations in the fight against cancer:
 
-- **🏥 Healthcare Institutions**: Integration partnerships with hospitals
-- **🔬 Research Organizations**: Data sharing agreements
-- **💼 Technology Companies**: Infrastructure and tool partnerships
-- **🎯 Non-Profit Organizations**: Community outreach and awareness
+- ** Healthcare Institutions**: Integration partnerships with hospitals
+- ** Research Organizations**: Data sharing agreements
+- ** Technology Companies**: Infrastructure and tool partnerships
+- ** Non-Profit Organizations**: Community outreach and awareness
 
-## 🆘 Support
+##  Support
 
 ### Getting Help
 
-- **📖 Documentation**: Check our comprehensive docs first
+- ** Documentation**: Check our comprehensive docs first
 - **💬 Discussions**: Join our [GitHub Discussions](https://github.com/your-username/fighting-cancer-now/discussions)
 - **🐛 Issues**: Report bugs via [GitHub Issues](https://github.com/your-username/fighting-cancer-now/issues)
-- **📧 Email**: Contact us at support@fightingcancernow.org
+- **📧 Email**: Contact us at contact@hanielrolemberg.com
 
 ### Community
 
-- **💬 Discord**: Join our developer community
+
 - **🐦 Twitter**: Follow [@FightingCancerNow](https://twitter.com/fightingcancernow)
 - **📱 Telegram**: Developer updates and discussions
-- **📰 Newsletter**: Monthly project updates
+
 
 ## 📜 License
 
@@ -472,27 +468,27 @@ to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software...
 ```
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 Special thanks to all contributors who make this project possible:
 
-- **🏥 Medical Professionals** providing domain expertise
-- **💻 Open Source Community** for tools and libraries
-- **📊 Data Providers** (WHO, CDC, INCA) for public health data
-- **💰 Donors and Supporters** enabling our mission
-- **🌍 Global Community** fighting cancer together
+- ** Medical Professionals** providing domain expertise
+- ** Open Source Community** for tools and libraries
+- ** Data Providers** (WHO, CDC, INCA) for public health data
+- ** Donors and Supporters** enabling our mission
+- ** Global Community** fighting cancer together
 
 ---
 
 <div align="center">
-  <h3>💪 Together, we can make a difference in the fight against cancer</h3>
+  <h3> Together, we can make a difference in the fight against cancer</h3>
   
   <p>
-    <strong>Star ⭐ this repository if you believe in our mission!</strong>
+    <strong>Star  this repository if you believe in our mission!</strong>
   </p>
   
   <p>
-    Made with ❤️ by the global Fighting Cancer Now community
+    Made with ❤️ by the Problem Solvers community
   </p>
   
   <a href="https://github.com/your-username/fighting-cancer-now">
