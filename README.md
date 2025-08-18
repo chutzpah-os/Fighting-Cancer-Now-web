@@ -1,4 +1,5 @@
 # Fighting Cancer Now
+<img src="assets/logo.png" alt="FCN's Logo" width="200"/>
 
 Fighting Cancer Now is an open-source global initiative aimed at centralizing cancer-related data from around the world and providing a platform for collective fundraising. The project seeks to empower patients, hospitals, researchers, and projects by offering transparent access to health data and enabling targeted support through donations.
 
