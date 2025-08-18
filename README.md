@@ -1,5 +1,4 @@
 # Fighting Cancer Now
-An open-source global initiative aimed at centralizing cancer-related data and providing a platform for collective fundraising in the oncology field.
 
 <div align="center">
   <img src="assets/logo/logo.png" alt="Fighting Cancer Now Logo" width="1000"/>
