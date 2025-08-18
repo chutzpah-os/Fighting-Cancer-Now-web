@@ -1,0 +1,36 @@
+name: CI
+
+on:
+  push:
+    branches: [ main, develop ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  test-frontend:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+      - name: Install dependencies
+        run: cd src/frontend && npm ci
+      - name: Run tests
+        run: cd src/frontend && npm test
+      - name: Build
+        run: cd src/frontend && npm run build
+
+  test-backend:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+      - name: Install dependencies
+        run: cd src/backend && pip install -r requirements-dev.txt
+      - name: Run tests
+        run: cd src/backend && pytest

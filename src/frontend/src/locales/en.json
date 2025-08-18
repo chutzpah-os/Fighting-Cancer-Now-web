@@ -1,0 +1,18 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "success": "Success!"
+  },
+  "navigation": {
+    "home": "Home",
+    "dashboard": "Dashboard",
+    "fundraising": "Fundraising",
+    "data": "Data Hub",
+    "profile": "Profile"
+  },
+  "home": {
+    "title": "Fighting Cancer Now",
+    "subtitle": "Global initiative for cancer data and fundraising"
+  }
+}

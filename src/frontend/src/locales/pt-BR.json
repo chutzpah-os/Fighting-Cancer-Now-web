@@ -1,0 +1,18 @@
+{
+  "common": {
+    "loading": "Carregando...",
+    "error": "Ocorreu um erro",
+    "success": "Sucesso!"
+  },
+  "navigation": {
+    "home": "Início",
+    "dashboard": "Painel",
+    "fundraising": "Arrecadação",
+    "data": "Hub de Dados",
+    "profile": "Perfil"
+  },
+  "home": {
+    "title": "Fighting Cancer Now",
+    "subtitle": "Iniciativa global para dados e arrecadação de fundos contra o câncer"
+  }
+}
