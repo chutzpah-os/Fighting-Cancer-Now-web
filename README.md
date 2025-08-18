@@ -422,6 +422,25 @@ Comprehensive documentation is available:
 </div>
 
 ##  Recognition & Awards
+# Healthcare & Cancer Innovation Awards 2026
+
+| Award Name | Focus Area | Estimated Value | Key Dates / Deadlines |
+|------------|------------|----------------|---------------------|
+| Endeavor Award – The Mark Foundation for Cancer Research | Cancer research, immunotherapy, tumor biology, personalized therapies | Varies by project | LOI submission: Jun 25, 2025<br>Full proposal: Jan 2026<br>Start: Jun 1, 2026 |
+| Damon Runyon-Rachleff Innovation Award | Early-career cancer research with high-impact ideas | Varies | Annual cycle, check official site |
+| Mike Slive Foundation 2025-2026 Pilot Research Grant | Prostate cancer innovative research | Varies | Grant period: Jan 1 – Dec 31, 2026 |
+| DKMS John Hansen Research Grant 2026 | Transplant immunology, new therapies, diagnostics | ~€1,000,000 | Check official site for submission dates |
+| Emerging Leader Award – The Mark Foundation for Cancer Research | Early-career high-risk, high-impact cancer projects | $250,000/year for 3 years | Start: Jan 1, 2026 |
+| Fund for Innovation in Cancer Informatics (ICI) | Bioinformatics applications in cancer | Varies | Rolling / check official site |
+
+# Open Source & Digital Health Innovation Awards 2026
+
+| Award Name | Focus Area | Estimated Value | Key Dates / Deadlines |
+|------------|------------|----------------|---------------------|
+| Red Hat Innovation Awards 2026 | Open source technology and digital health solutions | Varies | Submission: Oct 3, 2025<br>Announcement: May 2026 |
+| Global Health Innovation Grand Challenge 2026 | Multidisciplinary global health solutions | Varies | Submission: Dec 12, 2025<br>Event: Apr 10-12, 2026 |
+| Broermann Medical Innovation Award | Medical research and patient care innovation | €1,000,000 | Annual ceremony, check official site |
+| Rising Investigator Digital Health Innovation Award | Early-career digital health research | Up to $10,000 | Jul 1, 2025 – Jun 30, 2026 |
 
 - 🥇 **Open Source Healthcare Innovation Award 2026** (Pending)
 - 🌟 **GitHub Archive Program** - Preserved for future generations
@@ -440,7 +459,7 @@ We collaborate with leading organizations in the fight against cancer:
 
 ### Getting Help
 
-- ** Documentation**: Check our comprehensive docs first
+- **Documentation**: Check our comprehensive docs first
 - **💬 Discussions**: Join our [GitHub Discussions](https://github.com/your-username/fighting-cancer-now/discussions)
 - **🐛 Issues**: Report bugs via [GitHub Issues](https://github.com/your-username/fighting-cancer-now/issues)
 - **📧 Email**: Contact us at contact@hanielrolemberg.com
@@ -472,11 +491,11 @@ copies of the Software...
 
 Special thanks to all contributors who make this project possible:
 
-- ** Medical Professionals** providing domain expertise
-- ** Open Source Community** for tools and libraries
-- ** Data Providers** (WHO, CDC, INCA) for public health data
-- ** Donors and Supporters** enabling our mission
-- ** Global Community** fighting cancer together
+- **Medical Professionals** providing domain expertise
+- **Open Source Community** for tools and libraries
+- **Data Providers** (WHO, CDC, INCA) for public health data
+- **Donors and Supporters** enabling our mission
+- **Global Community** fighting cancer together
 
 ---
 
