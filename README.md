@@ -1,5 +1,4 @@
 # Fighting Cancer Now
-An open-source global initiative aimed at centralizing cancer-related data and providing a platform for collective fundraising in the oncology field.
 
 <div align="center">
   <img src="assets/logo/logo.png" alt="Fighting Cancer Now Logo" width="1000"/>
@@ -13,7 +12,8 @@ An open-source global initiative aimed at centralizing cancer-related data and p
   
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
-  [![GitHub Stars](https://img.shields.io/github/stars/fighting-cancer-now/fighting-cancer-now.svg)](https://github.com/your-username/fighting-cancer-now/stargazers)
+  [![GitHub Stars](https://img.shields.io/github/stars/fighting-cancer-now/fighting-cancer-now-web.svg)](https://github.com/fighting-cancer-now/fighting-cancer-now-web/stargazers)
+
 </div>
 
 ---
@@ -412,12 +412,12 @@ Comprehensive documentation is available:
   
 | Metric | Value |
 |--------|-------|
-|  GitHub Stars | ![GitHub Stars](https://img.shields.io/github/stars/your-username/fighting-cancer-now) |
-|  Forks | ![GitHub Forks](https://img.shields.io/github/forks/your-username/fighting-cancer-now) |
-|  Commits | ![GitHub Commits](https://img.shields.io/github/commit-activity/m/your-username/fighting-cancer-now) |
-|  Contributors | ![GitHub Contributors](https://img.shields.io/github/contributors/your-username/fighting-cancer-now) |
-|  Issues | ![GitHub Issues](https://img.shields.io/github/issues/your-username/fighting-cancer-now) |
-|  Release | ![GitHub Release](https://img.shields.io/github/v/release/your-username/fighting-cancer-now) |
+|  GitHub Stars | ![GitHub Stars](https://img.shields.io/github/stars/fighting-cancer-now/Fighting-Cancer-Now-web) |
+|  Forks | ![GitHub Forks](https://img.shields.io/github/forks/fighting-cancer-now/Fighting-Cancer-Now-web) |
+|  Commits | ![GitHub Commits](https://img.shields.io/github/commit-activity/m/fighting-cancer-now/Fighting-Cancer-Now-web) |
+|  Contributors | ![GitHub Contributors](https://img.shields.io/github/contributors/fighting-cancer-now/Fighting-Cancer-Now-web) |
+|  Issues | ![GitHub Issues](https://img.shields.io/github/issues/fighting-cancer-now/Fighting-Cancer-Now-web) |
+|  Release | ![GitHub Release](https://img.shields.io/github/v/release/fighting-cancer-now/Fighting-Cancer-Now-web) |
 
 </div>
 
@@ -460,7 +460,6 @@ We collaborate with leading organizations in the fight against cancer:
 ### Getting Help
 
 - **Documentation**: Check our comprehensive docs first
-- **💬 Discussions**: Join our [GitHub Discussions](https://github.com/your-username/fighting-cancer-now/discussions)
 - **🐛 Issues**: Report bugs via [GitHub Issues](https://github.com/your-username/fighting-cancer-now/issues)
 - **📧 Email**: Contact us at contact@hanielrolemberg.com
 
@@ -510,7 +509,7 @@ Special thanks to all contributors who make this project possible:
     Made with ❤️ by the Problem Solvers community
   </p>
   
-  <a href="https://github.com/your-username/fighting-cancer-now">
+  <a href="https://github.com/fighting-cancer-now/Fighting-Cancer-Now-web">
     <img src="https://img.shields.io/github/stars/your-username/fighting-cancer-now?style=social" alt="GitHub Stars">
   </a>
 </div>
