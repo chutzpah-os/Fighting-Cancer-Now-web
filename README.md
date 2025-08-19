@@ -450,10 +450,10 @@ Comprehensive documentation is available:
 
 We collaborate with leading organizations in the fight against cancer:
 
-- ** Healthcare Institutions**: Integration partnerships with hospitals
-- ** Research Organizations**: Data sharing agreements
-- ** Technology Companies**: Infrastructure and tool partnerships
-- ** Non-Profit Organizations**: Community outreach and awareness
+- **Healthcare Institutions**: Integration partnerships with hospitals
+- **Research Organizations**: Data sharing agreements
+- **Technology Companies**: Infrastructure and tool partnerships
+- **Non-Profit Organizations**: Community outreach and awareness
 
 ##  Support
 
@@ -466,11 +466,11 @@ We collaborate with leading organizations in the fight against cancer:
 ### Community
 
 
-- **🐦 Twitter**: Follow [@FightingCancerNow](https://twitter.com/fightingcancernow)
-- **📱 Telegram**: Developer updates and discussions
+- **Twitter/X**: Follow [@Problem Solvers](https://twitter.com/problemsolvers)
+- **Telegram**: Developer updates and discussions
 
 
-## 📜 License
+##  License
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
